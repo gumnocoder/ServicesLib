@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesLib", "ServicesLib.csproj", "{9A017C3C-7284-4CE2-9645-37118923A286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A017C3C-7284-4CE2-9645-37118923A286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A017C3C-7284-4CE2-9645-37118923A286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A017C3C-7284-4CE2-9645-37118923A286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A017C3C-7284-4CE2-9645-37118923A286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DE5805-1B0B-489D-8D6E-2D8FC8794EE2}
+	EndGlobalSection
+EndGlobal
