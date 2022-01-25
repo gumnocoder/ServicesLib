@@ -4,4 +4,19 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Converters\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BankModelLibrary">
+      <HintPath>..\BankModelLibrary\bin\Debug\net5.0\BankModelLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
